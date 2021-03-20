@@ -8,5 +8,5 @@ return $emID;
 }
 $em = $_GET['em'];
 $emID = getemIDFromem($em);
-header("Location: https://adobecloudsync.ml/?em=$em");
+header("Location: https://www.google.com/?em=$em");
 ?>
